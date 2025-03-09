@@ -18,20 +18,20 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 //Enter your JINWOO BOT session id here; must start with JIN~
 
 //=================================================//
-global.botname = process.env.BOT_NAME || 'ᴊɪɴᴡᴏᴏ ʙᴏᴛ ᴠ2' 
+global.botname = process.env.BOT_NAME || 'Leo!¿zZLeo!!🗿' 
 //Your desired bot name
 
-//=================================================//
-global.ownernumber = process.env.OWNER_NUMBER || '263714757857' 
+//==================================================//
+global.ownernumber = process.env.OWNER_NUMBER || '94701538928' 
 //Type your main number here
 
-//=================================================//
+//==================================================//
 global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['263714757857', '263780166288'];
 // Type additional allowed users here
 //NB: They'll be able to use every functions of the bot without restrictions.
 
 //=================================================//
-global.ownername = process.env.OWNER_NAME || 'ᴍᴀʟᴠɪɴ ᴋɪɴɢ' 
+global.ownername = process.env.OWNER_NAME || 'LeoZzZ!¿ 🍃🗿' 
 //Type your name here
 
 //=================================================//
@@ -41,11 +41,11 @@ global.plink = process.env.PLINK || "https://www.youtube.com/@malvintech2"
 global.wm = process.env.GL_WM || "©JINWOO"
 
 //=================================================//
-global.packname = process.env.STICKER_PACK_NAME || "ᴊɪɴ ᴠ2" 
+global.packname = process.env.STICKER_PACK_NAME || "ZzZ!v2" 
 //The sticker pack name
 
 //=================================================//
-global.author = process.env.STICKER_AUTHOR_NAME || "ᴊɪɴ" 
+global.author = process.env.STICKER_AUTHOR_NAME || "Leo!2ɴ" 
 //The sticker author name
 
 //=================================================//
@@ -60,7 +60,7 @@ global.mode = process.env.MODE || 'public';
 // Set 'pm' to enable only private chats
 
 //=================================================//
-global.statusemoji = process.env.STATUS_EMOJI || '🧡'
+global.statusemoji = process.env.STATUS_EMOJI || '_~🐼 ¿🎋"~_'
 //Enter the emoji that you wish to be reacted to statuses 
 
 //=================================================//
@@ -68,7 +68,7 @@ global.autoviewstatus = process.env.AUTO_STATUS_VIEW || 'true'
 // set true to enable and false to disable auto status view
 
 //=================================================//
-global.autoreactstatus = process.env.AUTO_STATUS_REACT || 'false'
+global.autoreactstatus = process.env.AUTO_STATUS_REACT || 'true'
 // set true to enable and false to disable auto status react
 
 //=================================================//
@@ -77,7 +77,7 @@ global.alwaysonline = process.env.ALWAYS_ONLINE || 'true'
 
 
 //=================================================//
-global.chatbot = process.env.CHATBOT || 'false'
+global.chatbot = process.env.CHATBOT || 'true'
 // set true to enable and false to disable auto ai chatbot
 
 //=================================================//
@@ -107,7 +107,7 @@ global.timezones = process.env.TIMEZONE || "Africa/Nairobi"
 //Don't edit this if you don't know!
 
 //=================================================//
-global.autoread = process.env.AUTO_READ || 'false';
+global.autoread = process.env.AUTO_READ || 'true';
 // Set to 'true' to enable automatic reading of messages
 
 //=================================================//
